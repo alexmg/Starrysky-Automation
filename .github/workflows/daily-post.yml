@@ -3,7 +3,7 @@ name: Daily Bluesky Post
 on:
   # schedule:
   #   - cron: '0 15 * * *'
-  workflow_call:
+  workflow_dispatch:
     inputs:
       dryRun:
         required: false
