@@ -51,7 +51,7 @@ jobs:
       - name: 🚀 Execute global tool
         run: >
           starrysky \
-            --token ${{ secrets.GitHubToken }} \
-            --handle ${{ secrets.BlueskyHandle }} \
-            --password ${{ secrets.BlueskyPassword }} \
+            --token ${{ secrets.GH_TOKEN }} \
+            --handle ${{ secrets.BLUESKY_HANDLE }} \
+            --password ${{ secrets.BLUESKY_PASSWORD }} \
             --dry-run ${{ inputs.dryRun }}
