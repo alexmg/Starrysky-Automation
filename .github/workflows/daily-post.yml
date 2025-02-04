@@ -39,11 +39,11 @@ jobs:
       - name: 📦 Add GitHub Packages source
         run: >-
          dotnet nuget add source
-           --name github
-           --username alexmg
-           --password ${{ secrets.GITHUB_TOKEN }}
-           --store-password-in-clear-text
-           https://nuget.pkg.github.com/alexmg/index.json
+         --name github
+         --username alexmg
+         --password ${{ secrets.GITHUB_TOKEN }}
+         --store-password-in-clear-text
+         https://nuget.pkg.github.com/alexmg/index.json
 
       - name: 🔨 Install global tool
         run: dotnet tool install --global Starrysky --ignore-failed-sources
@@ -51,7 +51,7 @@ jobs:
       - name: 🚀 Execute global tool
         run: >-
           starrysky
-            --token ${{ secrets.GH_TOKEN }}
-            --handle ${{ secrets.BLUESKY_HANDLE }}
-            --password ${{ secrets.BLUESKY_PASSWORD }}
-            --dry-run ${{ inputs.dryRun }}
+          --token ${{ secrets.GH_TOKEN }}
+          --handle ${{ secrets.BLUESKY_HANDLE }}
+          --password ${{ secrets.BLUESKY_PASSWORD }}
+          --dry-run ${{ inputs.dryRun }}
