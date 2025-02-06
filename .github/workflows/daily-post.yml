@@ -42,4 +42,4 @@ jobs:
           --token ${{ secrets.GH_TOKEN }}
           --handle ${{ secrets.BLUESKY_HANDLE }}
           --password ${{ secrets.BLUESKY_PASSWORD }}
-          --dry-run ${{ inputs.dryRun }}
+          --dry-run ${{ inputs.dryRun || false }}
