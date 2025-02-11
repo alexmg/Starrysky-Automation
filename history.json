@@ -28,5 +28,10 @@
     "Id": 44556479,
     "Name": "AzureAD/microsoft-authentication-library-for-dotnet",
     "Timestamp": "2025-02-10T15:24:56.2580033+00:00"
+  },
+  {
+    "Id": 768051415,
+    "Name": "dotnet/smartcomponents",
+    "Timestamp": "2025-02-11T15:25:44.3472332+00:00"
   }
 ]
