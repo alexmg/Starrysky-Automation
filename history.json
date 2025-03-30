@@ -263,5 +263,10 @@
     "Id": 323185869,
     "Name": "sebastienros/parlot",
     "Timestamp": "2025-03-29T15:23:41.4717476+00:00"
+  },
+  {
+    "Id": 286611993,
+    "Name": "appany/AppAny.Quartz.EntityFrameworkCore.Migrations",
+    "Timestamp": "2025-03-30T15:23:06.6098713+00:00"
   }
 ]
