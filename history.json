@@ -268,5 +268,10 @@
     "Id": 286611993,
     "Name": "appany/AppAny.Quartz.EntityFrameworkCore.Migrations",
     "Timestamp": "2025-03-30T15:23:06.6098713+00:00"
+  },
+  {
+    "Id": 444218938,
+    "Name": "thomhurst/EnumerableAsyncProcessor",
+    "Timestamp": "2025-03-31T15:26:19.1529988+00:00"
   }
 ]
