@@ -293,5 +293,10 @@
     "Id": 10501638,
     "Name": "AngleSharp/AngleSharp",
     "Timestamp": "2025-04-04T15:27:16.6560781+00:00"
+  },
+  {
+    "Id": 11180271,
+    "Name": "docopt/docopt.net",
+    "Timestamp": "2025-04-05T15:22:30.2326278+00:00"
   }
 ]
