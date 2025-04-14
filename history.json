@@ -338,5 +338,10 @@
     "Id": 76901413,
     "Name": "TrilonIO/aspnetcore-Vue-starter",
     "Timestamp": "2025-04-13T15:24:49.1056074+00:00"
+  },
+  {
+    "Id": 491573171,
+    "Name": "sigstore/gitsign",
+    "Timestamp": "2025-04-14T15:27:03.4678192+00:00"
   }
 ]
