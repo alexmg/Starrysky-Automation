@@ -343,5 +343,10 @@
     "Id": 491573171,
     "Name": "sigstore/gitsign",
     "Timestamp": "2025-04-14T15:27:03.4678192+00:00"
+  },
+  {
+    "Id": 24810740,
+    "Name": "golden-layout/golden-layout",
+    "Timestamp": "2025-04-15T15:27:07.920053+00:00"
   }
 ]
