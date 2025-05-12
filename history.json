@@ -478,5 +478,10 @@
     "Id": 36959618,
     "Name": "madelson/DistributedLock",
     "Timestamp": "2025-05-11T15:23:40.589113+00:00"
+  },
+  {
+    "Id": 35547612,
+    "Name": "dotnet-foundation/swag",
+    "Timestamp": "2025-05-12T15:29:25.9308883+00:00"
   }
 ]
