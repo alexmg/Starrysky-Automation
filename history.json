@@ -498,5 +498,10 @@
     "Id": 63421083,
     "Name": "dadhi/FastExpressionCompiler",
     "Timestamp": "2025-05-15T15:26:08.1701534+00:00"
+  },
+  {
+    "Id": 655515393,
+    "Name": "CopilotKit/CopilotKit",
+    "Timestamp": "2025-05-16T15:24:57.4756978+00:00"
   }
 ]
