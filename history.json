@@ -538,5 +538,10 @@
     "Id": 104763537,
     "Name": "madskristensen/Miniblog.Core",
     "Timestamp": "2025-05-23T15:26:46.501386+00:00"
+  },
+  {
+    "Id": 5757177,
+    "Name": "esskar/Serialize.Linq",
+    "Timestamp": "2025-05-24T15:23:23.1893036+00:00"
   }
 ]
