@@ -658,5 +658,10 @@
     "Id": 44466745,
     "Name": "pardahlman/RawRabbit",
     "Timestamp": "2025-06-16T15:28:56.3642703+00:00"
+  },
+  {
+    "Id": 27784297,
+    "Name": "RicoSuter/NJsonSchema",
+    "Timestamp": "2025-06-17T15:29:34.9463383+00:00"
   }
 ]
