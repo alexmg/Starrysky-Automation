@@ -738,5 +738,10 @@
     "Id": 351741587,
     "Name": "microsoft/JsonToJsonMapper",
     "Timestamp": "2025-07-02T15:28:37.7873236+00:00"
+  },
+  {
+    "Id": 111583593,
+    "Name": "Genymobile/scrcpy",
+    "Timestamp": "2025-07-03T15:28:26.0679909+00:00"
   }
 ]
