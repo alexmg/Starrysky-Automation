@@ -768,5 +768,10 @@
     "Id": 786905655,
     "Name": "open-telemetry/opentelemetry-ebpf-profiler",
     "Timestamp": "2025-07-08T15:29:07.7961073+00:00"
+  },
+  {
+    "Id": 23109150,
+    "Name": "theburningmonk/Metricano",
+    "Timestamp": "2025-07-09T15:29:19.5523394+00:00"
   }
 ]
