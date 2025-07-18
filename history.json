@@ -813,5 +813,10 @@
     "Id": 98643919,
     "Name": "JetBrains/teamcity-msbuild-logger",
     "Timestamp": "2025-07-17T15:30:47.3434536+00:00"
+  },
+  {
+    "Id": 649544592,
+    "Name": "VisActor/VChart",
+    "Timestamp": "2025-07-18T15:28:52.5581902+00:00"
   }
 ]
