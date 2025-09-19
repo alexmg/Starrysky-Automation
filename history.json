@@ -1128,5 +1128,10 @@
     "Id": 41903325,
     "Name": "influxdata/influxdb-csharp",
     "Timestamp": "2025-09-18T15:26:56.4625628+00:00"
+  },
+  {
+    "Id": 381857226,
+    "Name": "microsoft/typespec",
+    "Timestamp": "2025-09-19T15:25:26.0510691+00:00"
   }
 ]
