@@ -1288,5 +1288,10 @@
     "Id": 122750171,
     "Name": "Mybridge/javascript-open-source",
     "Timestamp": "2025-10-20T15:26:39.7581787+00:00"
+  },
+  {
+    "Id": 1008688456,
+    "Name": "anthropics/mcpb",
+    "Timestamp": "2025-10-21T15:26:45.4831103+00:00"
   }
 ]
