@@ -1348,5 +1348,10 @@
     "Id": 216603636,
     "Name": "horse-framework/horse-messaging",
     "Timestamp": "2025-11-01T15:21:54.5201711+00:00"
+  },
+  {
+    "Id": 230885748,
+    "Name": "goauthentik/authentik",
+    "Timestamp": "2025-11-02T15:23:10.6819955+00:00"
   }
 ]
