@@ -1373,5 +1373,10 @@
     "Id": 841242731,
     "Name": "APIParkLab/APIPark",
     "Timestamp": "2025-11-06T15:29:42.4945802+00:00"
+  },
+  {
+    "Id": 1044710507,
+    "Name": "vamplabAI/sgr-agent-core",
+    "Timestamp": "2025-11-07T15:27:17.3731328+00:00"
   }
 ]
