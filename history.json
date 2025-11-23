@@ -1453,5 +1453,10 @@
     "Id": 23805266,
     "Name": "Knagis/CommonMark.NET",
     "Timestamp": "2025-11-22T15:24:14.6385636+00:00"
+  },
+  {
+    "Id": 746071,
+    "Name": "jgraves/Autofac-Visualizer",
+    "Timestamp": "2025-11-23T15:24:03.9831159+00:00"
   }
 ]
