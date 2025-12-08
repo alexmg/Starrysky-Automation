@@ -1528,5 +1528,10 @@
     "Id": 109029230,
     "Name": "ReactPrimer/ReactPrimer",
     "Timestamp": "2025-12-07T15:23:50.1843077+00:00"
+  },
+  {
+    "Id": 93163073,
+    "Name": "dependabot/dependabot-core",
+    "Timestamp": "2025-12-08T15:31:33.6830892+00:00"
   }
 ]
