@@ -1563,5 +1563,10 @@
     "Id": 48997516,
     "Name": "OrleansContrib/OrleansDashboard",
     "Timestamp": "2025-12-14T15:25:34.0598403+00:00"
+  },
+  {
+    "Id": 299675717,
+    "Name": "Azure/bicep-types-az",
+    "Timestamp": "2025-12-15T15:32:22.0681186+00:00"
   }
 ]
