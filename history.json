@@ -1623,5 +1623,10 @@
     "Id": 599547518,
     "Name": "vllm-project/vllm",
     "Timestamp": "2025-12-26T15:28:57.6904209+00:00"
+  },
+  {
+    "Id": 137620270,
+    "Name": "SimonCropp/WaffleGenerator",
+    "Timestamp": "2025-12-27T15:26:35.9099121+00:00"
   }
 ]
