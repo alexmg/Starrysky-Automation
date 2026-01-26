@@ -1773,5 +1773,10 @@
     "Id": 243854166,
     "Name": "dotnet/tye",
     "Timestamp": "2026-01-25T15:28:12.8139017+00:00"
+  },
+  {
+    "Id": 756205264,
+    "Name": "Athens-SDET-Meetup/performance_workshop",
+    "Timestamp": "2026-01-26T15:37:09.8029814+00:00"
   }
 ]
