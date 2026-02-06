@@ -1828,5 +1828,10 @@
     "Id": 275405757,
     "Name": "Stono/kconmon",
     "Timestamp": "2026-02-05T15:50:09.0095017+00:00"
+  },
+  {
+    "Id": 195293976,
+    "Name": "MaximRouiller/MaximeRouiller.Azure.AppService.EasyAuth",
+    "Timestamp": "2026-02-06T15:50:26.0788503+00:00"
   }
 ]
