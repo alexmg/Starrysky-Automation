@@ -1833,5 +1833,10 @@
     "Id": 195293976,
     "Name": "MaximRouiller/MaximeRouiller.Azure.AppService.EasyAuth",
     "Timestamp": "2026-02-06T15:50:26.0788503+00:00"
+  },
+  {
+    "Id": 749647889,
+    "Name": "OpenBMB/MiniCPM-o",
+    "Timestamp": "2026-02-07T15:33:20.4349395+00:00"
   }
 ]
