@@ -1878,5 +1878,10 @@
     "Id": 13772272,
     "Name": "lookup-foundation/RevitLookup",
     "Timestamp": "2026-02-15T15:32:45.2015739+00:00"
+  },
+  {
+    "Id": 31979375,
+    "Name": "libgit2/libgit2sharp.nativebinaries",
+    "Timestamp": "2026-02-16T15:50:02.9369891+00:00"
   }
 ]
