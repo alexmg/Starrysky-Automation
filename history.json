@@ -2198,5 +2198,10 @@
     "Id": 340181518,
     "Name": "fastfetch-cli/fastfetch",
     "Timestamp": "2026-04-20T16:17:13.9379696+00:00"
+  },
+  {
+    "Id": 220251820,
+    "Name": "gerardog/gsudo",
+    "Timestamp": "2026-04-21T16:16:33.5454886+00:00"
   }
 ]
