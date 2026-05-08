@@ -2268,5 +2268,10 @@
     "Id": 110446844,
     "Name": "marktext/marktext",
     "Timestamp": "2026-05-07T16:58:18.9550741+00:00"
+  },
+  {
+    "Id": 59352868,
+    "Name": "andrewlock/NetEscapades.AspNetCore.SecurityHeaders",
+    "Timestamp": "2026-05-08T16:21:30.2223158+00:00"
   }
 ]
