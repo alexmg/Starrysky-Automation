@@ -2418,5 +2418,10 @@
     "Id": 53698446,
     "Name": "microsoft/sql-server-samples",
     "Timestamp": "2026-06-06T16:12:41.0025948+00:00"
+  },
+  {
+    "Id": 1148214569,
+    "Name": "jgraph/drawio-mcp",
+    "Timestamp": "2026-06-07T16:23:25.3232374+00:00"
   }
 ]
