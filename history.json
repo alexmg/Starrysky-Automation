@@ -2763,5 +2763,10 @@
     "Id": 392496211,
     "Name": "Cysharp/ObservableCollections",
     "Timestamp": "2026-08-15T15:28:03.5102466+00:00"
+  },
+  {
+    "Id": 31335736,
+    "Name": "serilog-metrics/serilog-metrics",
+    "Timestamp": "2026-08-16T15:28:04.2680548+00:00"
   }
 ]
