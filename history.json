@@ -2828,5 +2828,10 @@
     "Id": 67793333,
     "Name": "cortexproject/cortex",
     "Timestamp": "2026-08-29T15:14:57.3930536+00:00"
+  },
+  {
+    "Id": 638951438,
+    "Name": "comet-ml/opik",
+    "Timestamp": "2026-08-30T15:15:13.0820496+00:00"
   }
 ]
