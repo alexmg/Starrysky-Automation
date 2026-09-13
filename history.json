@@ -2898,5 +2898,10 @@
     "Id": 313752068,
     "Name": "belav/csharpier",
     "Timestamp": "2026-09-12T15:15:06.3929211+00:00"
+  },
+  {
+    "Id": 558227649,
+    "Name": "serilog/serilog-sinks-opentelemetry",
+    "Timestamp": "2026-09-13T15:15:17.612148+00:00"
   }
 ]
