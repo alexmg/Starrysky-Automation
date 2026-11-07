@@ -3168,5 +3168,10 @@
     "Id": 604273,
     "Name": "fluentcassandra/fluentcassandra",
     "Timestamp": "2026-11-06T15:12:11.339361+00:00"
+  },
+  {
+    "Id": 729748696,
+    "Name": "kbeaugrand/SemanticKernel.Assistants",
+    "Timestamp": "2026-11-07T15:09:44.6162536+00:00"
   }
 ]
