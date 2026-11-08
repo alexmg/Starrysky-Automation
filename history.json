@@ -3173,5 +3173,10 @@
     "Id": 729748696,
     "Name": "kbeaugrand/SemanticKernel.Assistants",
     "Timestamp": "2026-11-07T15:09:44.6162536+00:00"
+  },
+  {
+    "Id": 24330295,
+    "Name": "statiqdev/Statiq",
+    "Timestamp": "2026-11-08T15:09:46.3060939+00:00"
   }
 ]
