@@ -3193,5 +3193,10 @@
     "Id": 163804983,
     "Name": "djluck/prometheus-net.DotNetRuntime",
     "Timestamp": "2026-11-11T15:11:17.5116313+00:00"
+  },
+  {
+    "Id": 125275487,
+    "Name": "kubernetes-sigs/kubebuilder",
+    "Timestamp": "2026-11-12T15:12:21.7516035+00:00"
   }
 ]
