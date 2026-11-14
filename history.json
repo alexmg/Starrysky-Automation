@@ -3203,5 +3203,10 @@
     "Id": 190416463,
     "Name": "actions/runner-images",
     "Timestamp": "2026-11-13T15:11:09.7887315+00:00"
+  },
+  {
+    "Id": 55072677,
+    "Name": "weaviate/weaviate",
+    "Timestamp": "2026-11-14T15:09:55.564749+00:00"
   }
 ]
