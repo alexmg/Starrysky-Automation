@@ -3218,5 +3218,10 @@
     "Id": 1234928623,
     "Name": "erincatto/box3d",
     "Timestamp": "2026-11-16T15:19:43.0383258+00:00"
+  },
+  {
+    "Id": 133814602,
+    "Name": "dotnet-outdated/dotnet-outdated",
+    "Timestamp": "2026-11-17T15:13:05.9563998+00:00"
   }
 ]
